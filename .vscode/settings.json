@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Users\\Korisnik\\.virtualenvs\\GUI_wather_app-nVHhZQ-8\\Scripts\\python.exe",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.pyTestArgs": [
+        "."
+    ]
+}
